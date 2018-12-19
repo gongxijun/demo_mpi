@@ -5,7 +5,7 @@ Version    : ??
 File Name :     ShearSort.py
 Description :   
 Author  :       xijun1
-Email   :       xijun1@staff.weibo.com
+Email   :
 Date    :       2018/12/18
 -----------------------------------
 Change Activity  :   2018/12/18

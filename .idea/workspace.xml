@@ -12,22 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9940a174-56f6-44be-b0f7-5c2161236968" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/demo_mpi.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/xijun1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/factorial_reduce.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hello_mpi.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hostfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.cbp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mini_param_from_arr.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/montecarlo_pi.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ring_broadcast_mpi.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shear_sort.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReadMe.md" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/CMakeFiles/" />
@@ -118,7 +103,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hello_mpi.cc" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hello_mpi.cc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello_mpi.cc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -130,12 +115,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stdlib.h" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/include/stdlib.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="227" column="9" lean-forward="false" selection-start-line="227" selection-start-column="9" selection-end-line="227" selection-end-column="9" />
-              <folding />
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReadMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -176,6 +164,7 @@
         <option value="$PROJECT_DIR$/ShearSort.cc" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/shear_sort.cc" />
+        <option value="$PROJECT_DIR$/ReadMe.md" />
       </list>
     </option>
   </component>
@@ -419,12 +408,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544777605361</updated>
-      <workItem from="1544777607887" duration="34268000" />
+      <workItem from="1544777607887" duration="34437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34268000" />
+    <option name="totallyTimeSpent" value="34437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1200" extended-state="0" />
@@ -651,6 +640,17 @@
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
