@@ -12,7 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9940a174-56f6-44be-b0f7-5c2161236968" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReadMe.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/factorial_reduce.cc" afterPath="$PROJECT_DIR$/factorial_reduce.cc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/montecarlo_pi.cc" afterPath="$PROJECT_DIR$/montecarlo_pi.cc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ring_broadcast_mpi.cc" afterPath="$PROJECT_DIR$/ring_broadcast_mpi.cc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shear_sort.cc" afterPath="$PROJECT_DIR$/shear_sort.cc" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/CMakeFiles/" />
@@ -25,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ring_broadcast_mpi.cc" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ring_broadcast_mpi.cc" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ring_broadcast_mpi.cc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            <state relative-caret-position="119">
+              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -38,10 +42,10 @@
       <file leaf-file-name="montecarlo_pi.cc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/montecarlo_pi.cc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+            <state relative-caret-position="105">
+              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
-                <element signature="e#327#343#0" expanded="true" />
+                <element signature="e#298#314#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,10 +54,10 @@
       <file leaf-file-name="shear_sort.cc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shear_sort.cc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="150" column="19" lean-forward="false" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
+            <state relative-caret-position="105">
+              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
-                <element signature="e#320#336#0" expanded="true" />
+                <element signature="e#291#307#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,10 +66,10 @@
       <file leaf-file-name="factorial_reduce.cc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/factorial_reduce.cc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="34" column="30" lean-forward="false" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+            <state relative-caret-position="105">
+              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
-                <element signature="e#331#347#0" expanded="true" />
+                <element signature="e#302#318#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,7 +119,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReadMe.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -157,14 +161,14 @@
         <option value="$PROJECT_DIR$/hello_mpi.cc" />
         <option value="$PROJECT_DIR$/factorial_reduce.cpp" />
         <option value="$PROJECT_DIR$/hostfile" />
-        <option value="$PROJECT_DIR$/factorial_reduce.cc" />
         <option value="$PROJECT_DIR$/mini_param_from_arr.cc" />
-        <option value="$PROJECT_DIR$/ring_broadcast_mpi.cc" />
-        <option value="$PROJECT_DIR$/montecarlo_pi.cc" />
         <option value="$PROJECT_DIR$/ShearSort.cc" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/shear_sort.cc" />
         <option value="$PROJECT_DIR$/ReadMe.md" />
+        <option value="$PROJECT_DIR$/factorial_reduce.cc" />
+        <option value="$PROJECT_DIR$/montecarlo_pi.cc" />
+        <option value="$PROJECT_DIR$/shear_sort.cc" />
+        <option value="$PROJECT_DIR$/ring_broadcast_mpi.cc" />
       </list>
     </option>
   </component>
@@ -408,12 +412,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544777605361</updated>
-      <workItem from="1544777607887" duration="34437000" />
+      <workItem from="1544777607887" duration="34538000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34437000" />
+    <option name="totallyTimeSpent" value="34538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1200" extended-state="0" />
@@ -585,50 +589,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/factorial_reduce.cc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="34" column="30" lean-forward="false" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
-            <element signature="e#331#347#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shear_sort.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="150" column="19" lean-forward="false" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
-          <folding>
-            <element signature="e#320#336#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ring_broadcast_mpi.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/montecarlo_pi.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-          <folding>
-            <element signature="e#327#343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mini_param_from_arr.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="27" />
-          <folding>
-            <element signature="e#334#350#0" expanded="true" />
+            <element signature="e#302#318#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -643,14 +620,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/mini_param_from_arr.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="27" />
+          <folding>
+            <element signature="e#334#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/montecarlo_pi.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="e#298#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shear_sort.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="e#291#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ring_broadcast_mpi.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

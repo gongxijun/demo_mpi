@@ -5,7 +5,7 @@ Version    : ??
 File Name :     mini_param_from_arr.py
 Description :   
 Author  :       xijun1
-Email   :       xijun1@staff.weibo.com
+Email   :
 Date    :       2018/12/17
 -----------------------------------
 Change Activity  :   2018/12/17
